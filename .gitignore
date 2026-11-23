@@ -1,0 +1,13 @@
+.env
+*.env
+.env.*
+!.env.example
+node_modules/
+cache/
+artifacts/
+typechain-types/
+coverage/
+.DS_Store
+Thumbs.db
+*.pem
+*.key
